@@ -1,0 +1,2 @@
+FROM cimg/base:2022.01
+ENV ERLANG_VERSION="24.3.4"
